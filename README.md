@@ -5,7 +5,7 @@ a red black tree implementaion using java
 
 This is an example of how to implement a Red Black Tree using java and Eclipse.
 
-This project is an assignment I got in one of the courses I had during my first degree in computer science
+This project is an assignment I got in Data Structure course during my first degree of computer science
 in Tel Aviv University in Israel.
 
 
